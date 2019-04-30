@@ -1,6 +1,12 @@
 # Software-Engineering
 KDUPG software Engineer Assignment
 
+Members
+Choong Qi Chen      0189830
+Marcus Wong Ba Wei  0188715
+Ang Norman          0188235
+Teoh Chun Seong     0198167
+
 This application is using JAVA so you should
 have Java JDK install.
 
