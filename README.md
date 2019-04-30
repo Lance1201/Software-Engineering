@@ -17,3 +17,22 @@ have Java JDK install.
     are required to on steps 5.
 7. Double click LoginPage.java on the src folder
 8. Click Run.
+
+This application runs on localhost using phpMyAdmin
+XAMPP control panel will be required to run phpMyAdmin
+
+============================================
+  Import the database
+============================================
+1. First create a database name softwareengineer
+2. Import the tables in phpMyAdmin using the provided softwareegineer.sql
+3. In the connection.java, the variable username and password should be change to the one that you set in phpMyAdmin
+4. Compile the code.
+
+============================================
+  Account name and password
+============================================
+This account contains a proper schedule event 
+Or the you can register your own account
+Login = Lance
+password = 12345
